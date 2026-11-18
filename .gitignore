@@ -1,0 +1,4 @@
+build/
+mcastchat
+mcastchat-cli
+*.part
